@@ -1,0 +1,24 @@
+[cookies]
+xf_session = "17f0bb3d6a4602c30f8e61a2e32533c1"
+xf_tfa_trust = "4YfPNGVHldxNsOptgz96-UdaZdrLzSBZ"
+xf_user = "5377462%2C722ce512194653de6fce452f62aa60677543512b"
+
+[telegram]
+token = "5265789097:AAG6xRNRzB1--uHviI7J0HJ5-eZRdGKtB6w"
+id = "5303216891"
+
+[general]
+token = ""
+delay = [ 30, 60,]
+extra_delay = [ 90, 180,]
+proxy = ""
+set_likes = "fast"
+hold_likes = 5
+timeout = 60
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0"
+
+[log]
+info = true
+success = true
+error = true
+debug = false
